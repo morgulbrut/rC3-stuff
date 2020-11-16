@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tileset version="1.4" tiledversion="1.4.2" name="spaceship" tilewidth="32" tileheight="32" tilecount="512" columns="32">
- <image source="tileset.png" trans="898989" width="1024" height="512"/>
+ <image source="tileset.png" width="1024" height="512"/>
  <tile id="0">
   <properties>
    <property name="collides" type="bool" value="false"/>

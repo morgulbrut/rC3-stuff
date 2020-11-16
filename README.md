@@ -1,5 +1,9 @@
 # rC3-stuff
 
+## maps
+
+https://play.wa-test.rc3.cccv.de/_/global/raw.githubusercontent.com/morgulbrut/rC3-stuff/main/maps/main.json
+
 ## colorpalette
 
 * **rC3.gpl**: gimp colorpalette from the official styleguide (https://styleguide.rc3.world/RC3%20Style%20Guide%20Essentials.pdf)

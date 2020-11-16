@@ -132,7 +132,7 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"..\/tilesets\/scifi1\/spaceship.tsx"
+         "source":"..\/tilesets\/scifi1\/spaceship.png"
         }],
  "tilewidth":32,
  "type":"map",

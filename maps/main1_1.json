@@ -4,7 +4,7 @@
      "export":
         {
          "format":"json",
-         "target":"..\/..\/workadventure-map-bitwaescherei\/maps\/main1_1.json"
+         "target":"main1_1.json"
         }
     },
  "height":32,
@@ -103,7 +103,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/..\/workadventure-map-bitwaescherei\/floortileset.png",
+         "image":"..\/tilesets\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,

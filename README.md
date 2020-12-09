@@ -2,7 +2,11 @@
 
 ## maps
 
-https://play.wa-test.rc3.cccv.de/_/global/raw.githubusercontent.com/morgulbrut/rC3-stuff/main/maps/main1_1.json
+### Tavern
+
+https://play.wa-test.rc3.cccv.de/_/global/raw.githubusercontent.com/morgulbrut/rC3-stuff/main/maps/tavern.json
+https://bit.ly/33YDVtH
+
 
 ## colorpalette
 

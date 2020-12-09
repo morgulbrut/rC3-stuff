@@ -72,8 +72,8 @@
          "properties":[
                 {
                  "name":"playAudio",
-                 "type":"file",
-                 "value":"..\/sounds\/Crackling_Fire.mp3"
+                 "type":"string",
+                 "value":"sounds\/Crackling_Fire.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,

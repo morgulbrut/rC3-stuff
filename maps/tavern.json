@@ -43,7 +43,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":".\/sounds\/Crackling_Fire.mp3"
+                 "value":"https:\/\/raw.githubusercontent.com\/morgulbrut\/rC3-stuff\/sounds\/Crackling_Fire.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
